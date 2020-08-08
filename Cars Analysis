@@ -13,8 +13,6 @@ str(Cars)
 # 2. Print first 10 rows of cars
 Cars[c(1:10),]
 
-
-
 # 3. Read the file cars.txt as cars2 by converting char to strings
 
 cars2 <- Cars
